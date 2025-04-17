@@ -1,4 +1,4 @@
-# Voice Gender Recognition MATLAB App
+# Voice Gender Recognition MATLAB
 
 A MATLAB-based graphical user interface (GUI) that enables users to upload, analyze, and classify the gender of a speaker from a voice recording. The app visualizes various acoustic features including waveform, pitch, spectrogram, formants, and frequency spectrum to enhance understanding and interpretability.
 
